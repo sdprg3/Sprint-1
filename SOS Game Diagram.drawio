@@ -1,0 +1,136 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15" version="24.7.16">
+  <diagram name="Page-1" id="pvDd6gLyTcA5NVTSspor">
+    <mxGraphModel dx="1093" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-1" value="Select Simple or General Game" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-2" value="Enter Board Size" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGpiPzXNZ3UAjDhWY_01-4" target="WGpiPzXNZ3UAjDhWY_01-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-4" value="Start Simple Game" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGpiPzXNZ3UAjDhWY_01-5" target="WGpiPzXNZ3UAjDhWY_01-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-5" value="Start General Game" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGpiPzXNZ3UAjDhWY_01-2" target="WGpiPzXNZ3UAjDhWY_01-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="490" as="sourcePoint" />
+            <mxPoint x="440" y="440" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WGpiPzXNZ3UAjDhWY_01-9" target="WGpiPzXNZ3UAjDhWY_01-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-9" value="&lt;div style=&quot;text-align: left;&quot;&gt;Play Game:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Player Turn&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Input S or O&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="460" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGpiPzXNZ3UAjDhWY_01-10" target="WGpiPzXNZ3UAjDhWY_01-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGpiPzXNZ3UAjDhWY_01-10" target="WGpiPzXNZ3UAjDhWY_01-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGpiPzXNZ3UAjDhWY_01-10" target="WGpiPzXNZ3UAjDhWY_01-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-10" value="&lt;div style=&quot;&quot;&gt;Check for WIN or TIE Condition&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="135" y="580" width="130" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGpiPzXNZ3UAjDhWY_01-13" target="WGpiPzXNZ3UAjDhWY_01-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-13" value="&lt;div style=&quot;text-align: left;&quot;&gt;Play Game:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Player Turn&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Input S or O&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="562.5" y="460" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-15" value="IF SOS connection:&lt;div&gt;Announce Victor&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="680" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-19" value="IF NO SOS connection&lt;div&gt;Alternate Player&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="680" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WGpiPzXNZ3UAjDhWY_01-19" target="WGpiPzXNZ3UAjDhWY_01-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-28" value="IF Board Filled:&amp;nbsp;&lt;div&gt;Announce Draw&amp;nbsp;&lt;div&gt;Else Continue&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="132.5" y="780" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="WGpiPzXNZ3UAjDhWY_01-34" target="WGpiPzXNZ3UAjDhWY_01-36" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="WGpiPzXNZ3UAjDhWY_01-34" target="WGpiPzXNZ3UAjDhWY_01-35" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WGpiPzXNZ3UAjDhWY_01-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-34" value="&lt;div style=&quot;&quot;&gt;Check for SOS or TIE Condition&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="585" y="580" width="130" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGpiPzXNZ3UAjDhWY_01-35" target="WGpiPzXNZ3UAjDhWY_01-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-35" value="IF SOS connection:&lt;div&gt;Tally Up Players SOS.&lt;/div&gt;&lt;div&gt;Players Turn Again&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="680" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGpiPzXNZ3UAjDhWY_01-36" target="WGpiPzXNZ3UAjDhWY_01-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-36" value="IF NO SOS connection:&lt;div&gt;Alternate Player&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="680" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WGpiPzXNZ3UAjDhWY_01-42" target="WGpiPzXNZ3UAjDhWY_01-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGpiPzXNZ3UAjDhWY_01-42" target="WGpiPzXNZ3UAjDhWY_01-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-42" value="Board Filled: Count SOS Connections" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="587.5" y="775" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-43" value="If one player has more connections Announce Victor!" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-44" value="If both player have same connections Draw Game" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGpiPzXNZ3UAjDhWY_01-1" target="WGpiPzXNZ3UAjDhWY_01-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="260" as="sourcePoint" />
+            <mxPoint x="650" y="340" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGpiPzXNZ3UAjDhWY_01-48" target="WGpiPzXNZ3UAjDhWY_01-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGpiPzXNZ3UAjDhWY_01-48" target="WGpiPzXNZ3UAjDhWY_01-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGpiPzXNZ3UAjDhWY_01-48" value="Select AI or Player" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="145" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
